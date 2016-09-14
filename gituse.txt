@@ -1,0 +1,1 @@
+进入盘符 ：cd E：回车 创建目录 ： mkdir git仓库 进入目录 ： cd git仓库 退出目录 ： cd .. 初始化仓库 git init 列出当前目录所有的文件 ls -la
